@@ -1,8 +1,8 @@
-Name:
+Name: Neel  Vekaria
 
-Compilation and Run Successful:
+Compilation and Run Successful: YES
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: YES
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
